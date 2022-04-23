@@ -215,9 +215,4 @@ And I take patches. ;)
 
 ## The author
 
-Guido Draheim is working as a freelance consultant for
-multiple big companies in Germany. This script is related to 
-the current surge of DevOps topics which often use docker 
-as a lightweight replacement for cloud containers or even 
-virtual machines. It makes it easier to test deployments
-in the standard build pipelines of development teams.
+Ash Ketchum
